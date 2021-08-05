@@ -150,3 +150,7 @@ Run `make wisdom.local`. Wait.
 Copy the resulting `wisdom.local` file somewhere appropriate.
 
 Update the dump1090-fa command-line options to include `--wisdom /path/to/wisdom.local`
+
+
+# MAKE IT RUN! 
+On Raspberry Pi inside the file, run: dump1090 --interactive
